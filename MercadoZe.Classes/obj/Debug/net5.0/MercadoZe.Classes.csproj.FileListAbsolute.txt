@@ -1,0 +1,12 @@
+C:\Source\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.deps.json
+C:\Source\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.dll
+C:\Source\MercadoZe\MercadoZe.Classes\bin\Debug\net5.0\MercadoZe.Classes.pdb
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.csproj.AssemblyReference.cache
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.AssemblyInfoInputs.cache
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.AssemblyInfo.cs
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.csproj.CoreCompileInputs.cache
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.dll
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\refint\MercadoZe.Classes.dll
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\MercadoZe.Classes.pdb
+C:\Source\MercadoZe\MercadoZe.Classes\obj\Debug\net5.0\ref\MercadoZe.Classes.dll

@@ -1,0 +1,7 @@
+SELECT TOP (1000) [NUMERO]
+      ,[QUANTIDADE]
+      ,[DATAHORA]
+      ,[PRODUTO_ID]
+      ,[CLIENTE_ID]
+      ,[VALORTOTAL]
+  FROM [MERCADO_ZE].[dbo].[PEDIDO]
